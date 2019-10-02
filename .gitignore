@@ -1,2 +1,6 @@
 /.idea/
 /tdoer-utils.iml
+/target
+/bin
+.settings
+.project
