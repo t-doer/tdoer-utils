@@ -13,7 +13,7 @@
 
     <groupId>com.tdoer</groupId>
     <artifactId>tdoer-utils</artifactId>
-    <version>0.0.1-RELEASE</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>T-Doer Utils</name>
     <description>T-Doer utilities, including Zip, Json, Redis etc.</description>
     <licenses>
